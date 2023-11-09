@@ -1,0 +1,21 @@
+
+
+  @media only screen and (max-width: 1000px) {
+    .inner-bg-1 {
+      width: 60%;
+    }
+  }
+
+
+  @media only screen and (max-width: 600px) {
+    .inner-bg-1 {
+      width: 90%;
+    }
+    .inner-bg-1 {
+      background: url(../images/Flj_CjNX0AEnKFW-copy.jpg);
+      background-size: cover;
+    }
+    .box {
+      height: 25%;
+    }
+  }
